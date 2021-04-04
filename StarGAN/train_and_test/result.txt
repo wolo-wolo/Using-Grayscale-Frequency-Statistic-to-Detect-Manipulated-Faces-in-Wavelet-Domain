@@ -1,0 +1,16 @@
+Meso4:
+cA test acc and auc: 0.6253132782783126 0.6925
+cH test acc and auc: 0.9987468668691496 1.0
+cV test acc and auc: 0.9887218018223468 1.0
+cD test acc and auc: 0.9987468668691496 1.0
+Xce:
+cA test acc and auc: 0.5000000000186732 0.5
+cH test acc and auc: 1.0 1.0
+cV test acc and auc: 0.9962406006074489 1.0
+cD test acc and auc: 0.9987468668691496 1.0
+Meso4-weighted:
+acc: 1.0
+auc: 1.0
+Xce-weighted:
+acc: 1.0
+auc: 1.0
