@@ -1,6 +1,6 @@
 # Using Grayscale Frequency Statistic to Detect Manipulated Faces in Wavelet-Domain
 
-[Code For Paper Using Grayscale Frequency Statistic to Detect Manipulated Faces in Wavelet-Domain]
+[Code For Paper 'Using Grayscale Frequency Statistic to Detect Manipulated Faces in Wavelet-Domain']
 
 
 #   Overview
