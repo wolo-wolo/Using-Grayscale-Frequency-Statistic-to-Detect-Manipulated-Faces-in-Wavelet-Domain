@@ -1,7 +1,6 @@
 # Using Grayscale Frequency Statistic to Detect Manipulated Faces in Wavelet-Domain
 
-[Anonymous ICML 2021 submission]
-[Code For Paper ID 2572]
+[Code For Paper Using Grayscale Frequency Statistic to Detect Manipulated Faces in Wavelet-Domain]
 
 
 #   Overview
@@ -117,5 +116,5 @@ python visualization_Meso4.py
 ```
 
 # Statement
-This repository serves as example code only for ICML2021 review.
+This repository serves as example code only for paper review.
 
