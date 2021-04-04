@@ -69,7 +69,7 @@ python PreventDL.py
 #3) GFS and  GFS Differences
 Perform grayscale frequency statistic on the four subband images after wavelet transformation of true and fake images
 ```
-cd "grayscale frequency statistic and differences"
+cd "GFS"
 python grayscale_frequency_statistic.py
 ```
 The *results* folder obtained after execution saves the statistical plots of GFS and GFS differences,
